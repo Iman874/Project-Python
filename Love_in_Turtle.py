@@ -1,3 +1,4 @@
+#dibuat oleh Rosul Iman 18 Februari 2023
 import turtle
 
 # mengatur ukuran layar
